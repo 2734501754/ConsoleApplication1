@@ -24,6 +24,7 @@
     <ProjectGuid>{6e723e21-5bc6-4ab1-bf2b-d22ef87c5754}</ProjectGuid>
     <RootNamespace>ConsoleApplication1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>集合</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -164,6 +165,7 @@
     <ClCompile Include="没啥2.cpp" />
     <ClCompile Include="没啥20.cpp" />
     <ClCompile Include="没啥21.cpp" />
+    <ClCompile Include="没啥22.cpp" />
     <ClCompile Include="没啥3.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
