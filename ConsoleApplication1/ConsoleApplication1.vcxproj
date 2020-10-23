@@ -166,6 +166,10 @@
     <ClCompile Include="没啥20.cpp" />
     <ClCompile Include="没啥21.cpp" />
     <ClCompile Include="没啥22.cpp" />
+    <ClCompile Include="没啥23.cpp" />
+    <ClCompile Include="没啥24.cpp" />
+    <ClCompile Include="没啥25.cpp" />
+    <ClCompile Include="没啥26.cpp" />
     <ClCompile Include="没啥3.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
