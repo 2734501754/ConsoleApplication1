@@ -96,5 +96,17 @@
     <ClCompile Include="没啥27.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="没啥28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="没啥29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="没啥30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="没啥31.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
