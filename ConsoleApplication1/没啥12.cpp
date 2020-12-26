@@ -1,6 +1,6 @@
 ﻿#include<iostream>
 using namespace std;
-int ma12in()
+int m665ain()
 {
 int a = 2;
 while (a < 12)
@@ -12,6 +12,7 @@ while (a < 12)
 	}
 	char word[] = "mate";
 	cout<<(word == "mate")<<endl;
+
 	int i;
 	//for(i = 4, i--;;) //3 //while(i=4,i--)
 	//while(cin>>i,i)
@@ -23,6 +24,7 @@ while (a < 12)
 	//while (k = 5, cout << 0,0)
 		//cout << k;//0
 	//cout << k;//5
+
 
 
 	//int y = 10;

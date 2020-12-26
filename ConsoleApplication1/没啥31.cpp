@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int ma331in()
 {
 	int i = 0;
 	for (;;)
@@ -24,4 +24,5 @@ int main()
 	cout << i << endl;
 	for (;;)
 		cout << "h";
+	
 }

@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <cstdlib>
 using namespace std;
-int mcan()
+int m99ain()
 {
 
     string str, temp;
