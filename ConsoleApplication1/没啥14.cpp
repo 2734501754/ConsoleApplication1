@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int b;//静态变量(静态存储)
-int main()
+int ma554in()
 {
 
 	int a = 2;//自动变量(自动存储)
