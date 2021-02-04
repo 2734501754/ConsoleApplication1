@@ -13,7 +13,7 @@ int maaaain()
 	delete[]b;
 	return 0;
 }
-int ma1231in()
+int m429ain()
 {
 	const int SIZE = 60;
 	char filename[SIZE];
@@ -25,7 +25,7 @@ int ma1231in()
 	{
 		cout << "Could not open the file " << filename << endl;
 		cout << "Program terminating.\n";
-		//exit(EXIT_FAILURE);
+		exit(EXIT_FAILURE);
 
 	}
 	double value;
@@ -53,5 +53,6 @@ int ma1231in()
 		cout << "Average: " << sum / count << endl;
 	}
 	inFile.close();
+	
 	return 0;
 }
